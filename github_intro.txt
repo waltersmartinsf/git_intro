@@ -1,0 +1,30 @@
+Principais comandos
+
+(1) inicializar git num diretorio
+
+git init
+
+(2) verificar status do meu projeto
+
+git status
+
+(3) add arquivo no git presente no diretorio
+
+git add *
+
+(4) Colocar um comentário na versão de controle
+
+git commit -m "add analisys of data Jutzi+2010, filter for radius > 0.032km"
+
+(5) Verificar log do git
+
+git log
+
+(6) Add o caminho a um repositorio no git (remoto)
+
+git remote add origin https://github.com/waltersmartinsf/research.git
+
+(7)Atualizar meu repositorio
+
+git push -u origin master
+
