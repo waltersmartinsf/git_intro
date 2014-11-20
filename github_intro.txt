@@ -29,3 +29,7 @@ git remote add origin https://github.com/waltersmartinsf/git_intro.git
 
 git push -u origin master
 
+(8) para introduzir merges nos dados
+
+git pull
+
