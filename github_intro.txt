@@ -23,6 +23,7 @@ git log
 (6) Add o caminho a um repositorio no git (remoto)
 
 git remote add origin https://github.com/waltersmartinsf/research.git
+git remote add origin https://github.com/waltersmartinsf/git_intro.git
 
 (7)Atualizar meu repositorio
 
